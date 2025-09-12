@@ -277,4 +277,4 @@ INSERT INTO order_items (order_id, product_id, quantity, unit_price) VALUES
 ```
 ---
 
-**Tip:** When switching between steps in https://sqliteonline.com, click the trash/bin icon (or clear the editor) before pasting the next block so you don’t accidentally run old statements again.
+**Tip:** When switching between steps in https://sqliteonline.com, clear the editor before pasting the next block so you don’t accidentally run old statements again.
