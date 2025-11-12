@@ -393,4 +393,5 @@ In `index.html` you can change the palette and layout without any build tools.
 * Store logs in SQLite for persistence.
 * When you upgrade hardware, try larger models or longer contexts.
 
-You now have a minimal—but well‑behaved—chatbot web app that you can bend to your will: classroom demos, internal tools, or a foundation for something much bigger.
+You now have a minimal—but well‑behaved—chatbot web app that you can bend to your will: classroom demos, internal tools, and a foundation for your final project.
+Go Hoos
