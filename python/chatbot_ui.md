@@ -79,7 +79,7 @@ hf-chatbot/
 
 ## 5) Backend application (`web_chatbot.py`)
 
-Create a file named **`web_chatbot.py`** with the following content. Read through the comments; they’re meant to teach, not just tell.
+Create a file named **`web_chatbot.py`** with the following content. Read through the comments; they’re meant to teach...it's good for you :-)
 
 ```python
 #!/usr/bin/env python3
